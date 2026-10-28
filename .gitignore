@@ -1,0 +1,22 @@
+# Environments & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*.class
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+
+# Microsoft Office temporary lock files
+~$*.xlsx
+~$*.csv
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
